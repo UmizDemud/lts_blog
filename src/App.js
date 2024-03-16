@@ -4,8 +4,6 @@ import {
     Route
 } from "react-router-dom";
 import Blog from './BlogPage/Blog'
-import Citations from "./CitationPage/Citations";
-import Frontend from "./FrontendPage/Frontend";
 import Header from './BlogPage/Header';
 
 
@@ -30,12 +28,6 @@ const App = () => (
         <Switch>
             <Route exact path="/">
                 <Blog />
-            </Route>
-            <Route path="/frontend">
-                <Frontend />
-            </Route>
-            <Route path="/citations">
-                <Citations />
             </Route>
         </Switch>
     </Router>
