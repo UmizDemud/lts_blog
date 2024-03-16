@@ -32,19 +32,19 @@ const mainFeaturedPost = {
 const featuredPosts = [
   {
     title: 'Student life in Poland',
-    date: 'Nov 12',
+    date: '2017 - 2021',
     description:
       'Poland represents a great mix of quality education and affordable costs. International students can choose from over 400 universities where programmes are taught in Polish and English. The main advantage of choosing a Polish-taught degree is that you won’t have to pay any tuition fees. Polish people are known for their hospitality and specific sense of humour, which means you’ll have a lot of fun interacting with locals, making friends, and exploring your surroundings. When you’re not in classes, feel free to travel around, visit the beautiful castles, or go skiing in the Tatra Mountains (during the winter).',
     image: img_wroclaw,
-    imageLabel: 'Image Text',
+    imageLabel: 'Wroclaw University of Science and Technology',
   },
   {
     title: 'Studying in Bilkent University',
-    date: 'Nov 11',
+    date: '2014 - 2017',
     description:
       'Turkey is a culturally rich country that attracts international students from all over the world. Ankara is the grey capital of the country. A growing number of English-taught Bachelors and Masters, and the numerous scholarships that cover tuition fees, accommodation, healthcare, and even travel expenses. While living here, you’ll find yourself at the beautiful contrast of European and Asian cultures. It’s a unique blend of traditions, festivals, and cuisines...',
     image: bilkentImgs[1],
-    imageLabel: 'Image Text',
+    imageLabel: 'Bilkent University',
   },
 ];
 
