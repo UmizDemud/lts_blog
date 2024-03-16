@@ -67,19 +67,6 @@ const sidebar = {
   Between two waves of the sea.\n
   \n—T.S. Eliot, Four Quartets`,
 
-  archives: [
-    { title: 'March 2020', url: '#' },
-    { title: 'February 2020', url: '#' },
-    { title: 'January 2020', url: '#' },
-    { title: 'November 1999', url: '#' },
-    { title: 'October 1999', url: '#' },
-    { title: 'September 1999', url: '#' },
-    { title: 'August 1999', url: '#' },
-    { title: 'July 1999', url: '#' },
-    { title: 'June 1999', url: '#' },
-    { title: 'May 1999', url: '#' },
-    { title: 'April 1999', url: '#' },
-  ],
   social: [
     { name: 'GitHub', icon: GitHubIcon, link: "https://github.com/UmizDemud" },
     { name: 'Twitter', icon: TwitterIcon, link: "https://twitter.com/d3mut170891" },
@@ -172,7 +159,6 @@ export default function Blog() {
             <Sidebar
               title={sidebar.title}
               description={sidebar.description}
-              archives={sidebar.archives}
               social={sidebar.social}
               card={appState.nasa?<MediaCard sx={{margin: '0 auto'}} props={{
                 img: appState.nasaPost.img,
@@ -186,7 +172,7 @@ export default function Blog() {
       </Container>
         <br />
         <Footer
-          title="DeepB"
+          title="DeepB - Dev Blog"
           description="Personal Website for Recruitment Purposes"
         />
     </div>
