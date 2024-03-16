@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lts_blog/static/css/main.4e4708df.chunk.css",
+    "main.js": "/lts_blog/static/js/main.34b727b0.chunk.js",
+    "main.js.map": "/lts_blog/static/js/main.34b727b0.chunk.js.map",
+    "runtime-main.js": "/lts_blog/static/js/runtime-main.8b371ba4.js",
+    "runtime-main.js.map": "/lts_blog/static/js/runtime-main.8b371ba4.js.map",
+    "static/js/2.ac4a409a.chunk.js": "/lts_blog/static/js/2.ac4a409a.chunk.js",
+    "static/js/2.ac4a409a.chunk.js.map": "/lts_blog/static/js/2.ac4a409a.chunk.js.map",
+    "index.html": "/lts_blog/index.html",
+    "static/css/main.4e4708df.chunk.css.map": "/lts_blog/static/css/main.4e4708df.chunk.css.map",
+    "static/js/2.ac4a409a.chunk.js.LICENSE.txt": "/lts_blog/static/js/2.ac4a409a.chunk.js.LICENSE.txt",
+    "static/media/1.ff71981d.jpg": "/lts_blog/static/media/1.ff71981d.jpg",
+    "static/media/2.a8f05ae9.jpg": "/lts_blog/static/media/2.a8f05ae9.jpg",
+    "static/media/3.76c0e95a.jpg": "/lts_blog/static/media/3.76c0e95a.jpg",
+    "static/media/bigImg2.75e56128.jpg": "/lts_blog/static/media/bigImg2.75e56128.jpg",
+    "static/media/wroclaw.085428d5.jpg": "/lts_blog/static/media/wroclaw.085428d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b371ba4.js",
+    "static/js/2.ac4a409a.chunk.js",
+    "static/css/main.4e4708df.chunk.css",
+    "static/js/main.34b727b0.chunk.js"
+  ]
+}
