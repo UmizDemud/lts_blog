@@ -1,5 +1,4 @@
 import * as React from 'react';
-import PropTypes from 'prop-types';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 
@@ -14,7 +13,7 @@ const Header = () => (
           noWrap
           sx={{ flex: 1 }}
         >
-          <a href="https://www.deepb.org/en/home" className="font--explora link-slf bg-white">Umut Deniz</a>
+          <a href="https://www.deepb.org/en/home" className="font--explora link-slf">Umut Deniz</a>
         </Typography>
       </Toolbar>
     </React.Fragment>
