@@ -1,0 +1,10 @@
+GET https://meowfacts.herokuapp.com/
+
+###
+
+GET https://api.thecatapi.com/v1/images/search
+
+
+###
+
+GET https://api.nasa.gov/planetary/apod?api_key=pzAD3SAeRbwy0B0ubuEfXybSIS1aUF3ug6T8LcPk

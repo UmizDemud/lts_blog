@@ -1,0 +1,72 @@
+body {
+    background-color: #ededed;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+
+.bg-dark {
+    width: fit-content;
+    background: rgb(221,221,211);
+    background: linear-gradient(150deg, rgba(250,250,250,1) 0%, rgba(255,255,255,1) 50%, rgba(250,250,250,1) 100%);
+    color: #000;
+    margin: 0 auto;
+}
+
+
+.bg-white {
+    
+    line-height: 63px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 6px;
+    background: rgb(250,250,250);
+    background: linear-gradient(150deg, rgba(250,250,250,0.7) 0%, rgba(253,253,253,1) 50%, rgba(250,250,250,0.7) 100%);
+}
+
+.hvr-lght {
+    text-decoration: none;
+    transition: all .3s ease-in;
+}
+
+
+.hvr-lght:hover {
+    
+    background-color: #fff1ff;
+    border-radius: 15px;
+    border: 1px solid #000;
+}
+
+.apiPost {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.apiPost + .apiPost {
+    margin-top: 15px;
+}
+
+.link-slf {
+    text-decoration: none;
+    color: #222;
+}
+
+.link-slf:hover {
+    text-decoration: none;
+    color: #600;
+}
+
+.link-slf:visited{
+    color: inherit;
+}
+
+.link--inactive {
+    pointer-events: none;
+    opacity: .7;
+}
+
+.font--explora {
+    font-weight: 700;
+    font-size: 46px;
+    font-family: 'Explora', cursive;
+}
